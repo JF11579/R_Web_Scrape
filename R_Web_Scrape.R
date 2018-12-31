@@ -1,0 +1,6 @@
+#https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/
+
+library(rvest)
+library(tidyverse)
+library(ggplot2)
+
